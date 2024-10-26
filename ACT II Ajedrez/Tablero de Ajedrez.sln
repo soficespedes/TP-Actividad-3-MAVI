@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ajedrez", "Ajedrez\Ajedrez.vcxproj", "{82B745E1-0AB5-4066-A291-1492D4EA1BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Debug|x64.ActiveCfg = Debug|x64
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Debug|x64.Build.0 = Debug|x64
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Debug|x86.Build.0 = Debug|Win32
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Release|x64.ActiveCfg = Release|x64
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Release|x64.Build.0 = Release|x64
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Release|x86.ActiveCfg = Release|Win32
+		{82B745E1-0AB5-4066-A291-1492D4EA1BF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49DB24C9-9E2A-45B5-9F62-4CF967E798D3}
+	EndGlobalSection
+EndGlobal
